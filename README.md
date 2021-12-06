@@ -1,5 +1,5 @@
 ## Developer
-TENADJANG STEVE (TENA$), hope you guys will want to know more about what i can do with plan HTML5 and CSS3
+TENADJANG STEVE (TENA$), hope you guys will want to know more about what i can do with plain HTML5 and CSS3
 <p align="center">
     <a href="https://github.com/STEVETENAS" target="_blank">
         <img src="https://github.com/STEVETENAS/tenas-info/blob/master/src/assets/TenasLogo.png?raw=true" alt="Image"/>   
